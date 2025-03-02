@@ -416,7 +416,7 @@
     /* Home Page Styles */
     .hero-section {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('../assets/images/hero-bg.jpg') center/cover no-repeat;
+    url('../../public/logo512.png') center/cover no-repeat;
     height: 80vh;
     display: flex;
     align-items: center;
