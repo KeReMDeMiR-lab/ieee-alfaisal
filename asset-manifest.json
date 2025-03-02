@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ieee-alfaisal/static/css/main.f855e6bc.css",
-    "main.js": "/ieee-alfaisal/static/js/main.b8aeef9e.js",
+    "main.css": "/ieee-alfaisal/static/css/main.6b156aec.css",
+    "main.js": "/ieee-alfaisal/static/js/main.6f668cee.js",
     "static/js/453.48275a80.chunk.js": "/ieee-alfaisal/static/js/453.48275a80.chunk.js",
-    "static/media/logo.svg": "/ieee-alfaisal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ieee-alfaisal/index.html",
-    "main.f855e6bc.css.map": "/ieee-alfaisal/static/css/main.f855e6bc.css.map",
-    "main.b8aeef9e.js.map": "/ieee-alfaisal/static/js/main.b8aeef9e.js.map",
+    "main.6b156aec.css.map": "/ieee-alfaisal/static/css/main.6b156aec.css.map",
+    "main.6f668cee.js.map": "/ieee-alfaisal/static/js/main.6f668cee.js.map",
     "453.48275a80.chunk.js.map": "/ieee-alfaisal/static/js/453.48275a80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b8aeef9e.js"
+    "static/css/main.6b156aec.css",
+    "static/js/main.6f668cee.js"
   ]
 }
